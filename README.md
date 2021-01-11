@@ -18,7 +18,7 @@ The purpose of this election analysis is to write a code that is able to sort th
   Arapahoe county, which received the lowest percentage of voter turn out at 6.7%. See image below
   for what is written in the *election_analysis.txt* file when the program is executed.
   
-  ![county_result_txt.png](/total_votes_txt.png)
+  ![county_results_txt.png](/county_results_txt.png)
   
 ### - Which county had the largest number of votes?
   
